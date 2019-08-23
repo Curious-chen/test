@@ -1,4 +1,0 @@
-200~Git is a distributed version control system.
-Git is free sofeware.
-three.
-four.
